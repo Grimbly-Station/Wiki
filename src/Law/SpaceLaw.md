@@ -41,6 +41,7 @@ It is highly recommended to read the Standard Operating Procedures, but specific
 
 ## Crime Modifiers
 Sentencing modifiers are to be applied by the sentencing officer, judge, or arbiter. Aggravating modifiers may not extend a sentence beyond the specified limit, while extenuating modifiers may not reduce a sentence below the specified limit.
+
 ### Aggravating
 * **Solicitation**
     * Any sophont found guilty of encouraging, bribing, requesting, or instructing someone to commit a crime, with the intent that the sophont being solicited commit the crime, will receive for the crimes they solicited in full.
@@ -56,7 +57,6 @@ Sentencing modifiers are to be applied by the sentencing officer, judge, or arbi
     * Any sophont found guilty of committing a crime based fully or in part based on the victim or affected party’s appearance, gender, psionics, religion, ability/disability, place of origin or habitation, culture, or other immutable feature or quality, will receive an additional modifier of, at most, 150% of the original sentence.
 * **Recidivism**
     * Any sophont convicted of the same criminal charge multiple times within one shift will receive an additional modifier of, at most, 200% of the original sentence.
-
 ### Extenuating
 * **Cooperation**
     * Any sophont who shares actionable intelligence with the authorities, turns oneself in, testifies against accomplices, confesses to their crime, or otherwise aids the prosecution, may have their sentence reduced to no less than 50% of the original sentence.
@@ -68,3 +68,19 @@ Sentencing modifiers are to be applied by the sentencing officer, judge, or arbi
     * Any convict who peacefully complies with the authorities, displays clear signs of remorse concerning the committed crime, and/or conducts themselves peacefully while imprisoned, may be paroled as outlined in the Standard Operating Procedures.
 
 ## Crimes
+### Capital Crimes
+| Name | Time | Description |
+|-|-|-|
+| Murder | Capital | To kill a sophont with malicious intent and premeditation. |
+|-|-|-|
+| Terrorism | Capital | To commit an act with the intent to cause injury or death, or to take hostages, in order to provoke a state of terror in, intimidate, or compel a group of sophonts to do or to abstain from doing any act. |
+|-|-|-|
+| Grand Sabotage | Capital | To engage in malicious actions that directly or indirectly make uninhabitable or inoperable a vessel or its part, or irreversibly modify and/or damage technology one is not authorised to access, causing severe bodily harm or death to multiple sophonts. |
+|-|-|-|
+| Decorporealisation | Capital | To unlawfully, maliciously, and permanently strip a sophont’s mind from their body. |
+|-|-|-|
+| Kidnapping | Capital | To unlawfully confine or restrict the free movement of a sophont against their will. |
+|-|-|-|
+| Sedition | Capital | To act to overthrow a lawfully established Chain of Command or governing body without lawful or legitimate cause. |
+|-|-|-|
+| Sexual Harassment | Capital | To sexually harass, attempt to coerce into sexual relations, or effect unwanted sexual contact with an unwilling sophont. |
