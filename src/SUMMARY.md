@@ -1,5 +1,5 @@
 # In-Character
 
-- [Space Law](Law/Space Law.md)
+- [Space Law](Law/SpaceLaw.md)
 - [Standard Operating Procedures]()
 - [Company Policy]()
