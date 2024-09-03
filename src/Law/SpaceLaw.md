@@ -79,7 +79,7 @@ Sentencing modifiers are to be applied by the sentencing officer, judge, or arbi
 | Sedition | Capital | To act to overthrow a lawfully established Chain of Command or governing body without lawful or legitimate cause. |
 | Sexual Harassment | Capital | To sexually harass, attempt to coerce into sexual relations, or effect unwanted sexual contact with an unwilling sophont. |
 
-### Felonies Crimes
+### Felonies
 | Name | Time | Description |
 |-|-|-|
 | Manslaughter | 8 minutes | To effect violence upon a sophont, resulting in their death, without the apparent intent to kill them. |
@@ -96,5 +96,14 @@ Sentencing modifiers are to be applied by the sentencing officer, judge, or arbi
 | Contempt of Court | 4 minutes | To conduct oneself disruptively and disrespectfully before the court. |
 | Perjury or False Report | 3 minutes | To wilfully and maliciously tell an untruth either in court or in the process of making an actionable report to law enforcement. |
 | Obstruction of Justice | 2 minutes | To wilfully disobey, interfere with, or refuse a decree of the court, warrant, or arrest. |
+
+### Misdemeanors
+| Name | Time | Description |
+|-|-|-|
+| Animal Cruelty | 3 minutes | To inflict unnecessary suffering on a sapient being with malicious intent. |
+| Theft | 2 minutes | To unlawfully take property or items without consent. |
+| Trespass | 2 minutes | To enter into an area where one is not authorised nor invited. |
+| Vandalism | 2 minutes | To deface or superficially damage public property, or property belonging to another person. |
+| Hooliganism | As necessary | To intentionally and maliciously engage in disruptive conduct, where one refuses to cease. |
 
 [^note]: Possession does not stack and the time may not go above 5 minutes from possession alone. 
