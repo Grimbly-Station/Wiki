@@ -78,3 +78,23 @@ Sentencing modifiers are to be applied by the sentencing officer, judge, or arbi
 | Kidnapping | Capital | To unlawfully confine or restrict the free movement of a sophont against their will. |
 | Sedition | Capital | To act to overthrow a lawfully established Chain of Command or governing body without lawful or legitimate cause. |
 | Sexual Harassment | Capital | To sexually harass, attempt to coerce into sexual relations, or effect unwanted sexual contact with an unwilling sophont. |
+
+### Felonies Crimes
+| Name | Time | Description |
+|-|-|-|
+| Manslaughter | 8 minutes | To effect violence upon a sophont, resulting in their death, without the apparent intent to kill them. |
+| Grand Theft | 8 minutes | To unlawfully take highly restricted, dangerous, valuable, or highly sensitive property or items without consent. |
+| Black Marketeering | 6 minutes | To sell, distribute, or otherwise circulate restricted items or substances to unauthorised sophonts or entities. |
+| Sabotage | 6 minutes | To engage in malicious actions that directly or indirectly hinder the operation of a vessel or its part, modify and/or damage technology one is not authorised to access, or endanger multiple sophonts. |
+| Mindbreaking | 5 minutes | To unlawfully and maliciously rid a psionic sophont of their powers. |
+| Assault | 5 minutes | To cause physical harm or to effect unwanted physical contact on a sophont, without the apparent intent to kill them, or to threaten such actions with both capability and intent to do so. | 
+| Abuse of Power | 5 minutes | To intentionally misuse or wrongfully exercise one’s own authority, influence, or control, resulting in harm, unjust treatment, or demonstrable loss to a separate party due to violation of ethical and professional standards. |
+| Possession | 5 minutes[^note] | To be in unauthorised possession of restricted items or items of particular danger. See Controlled Substances/Items, Controlled Armaments. |
+| Endangerment | 4 minutes | To recklessly abandon obligations involving the continued wellbeing and/or protection of life and property, through malpractice, action, or inaction. |
+| Breaking and Entering | 4 minutes | To break and enter into a high security area where one is not authorised nor invited, with intent to commit a crime within. |
+| Rioting | 4 minutes | To partake in an unauthorised riotous, tumultuous, and disruptive public assembly that refuses to disperse after warning. |
+| Contempt of Court | 4 minutes | To conduct oneself disruptively and disrespectfully before the court. |
+| Perjury or False Report | 3 minutes | To wilfully and maliciously tell an untruth either in court or in the process of making an actionable report to law enforcement. |
+| Obstruction of Justice | 2 minutes | To wilfully disobey, interfere with, or refuse a decree of the court, warrant, or arrest. |
+
+[^note]: Possession does not stack and the time may not go above 5 minutes from possession alone. 
