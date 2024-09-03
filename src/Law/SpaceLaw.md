@@ -72,15 +72,9 @@ Sentencing modifiers are to be applied by the sentencing officer, judge, or arbi
 | Name | Time | Description |
 |-|-|-|
 | Murder | Capital | To kill a sophont with malicious intent and premeditation. |
-|-|-|-|
 | Terrorism | Capital | To commit an act with the intent to cause injury or death, or to take hostages, in order to provoke a state of terror in, intimidate, or compel a group of sophonts to do or to abstain from doing any act. |
-|-|-|-|
 | Grand Sabotage | Capital | To engage in malicious actions that directly or indirectly make uninhabitable or inoperable a vessel or its part, or irreversibly modify and/or damage technology one is not authorised to access, causing severe bodily harm or death to multiple sophonts. |
-|-|-|-|
 | Decorporealisation | Capital | To unlawfully, maliciously, and permanently strip a sophont’s mind from their body. |
-|-|-|-|
 | Kidnapping | Capital | To unlawfully confine or restrict the free movement of a sophont against their will. |
-|-|-|-|
 | Sedition | Capital | To act to overthrow a lawfully established Chain of Command or governing body without lawful or legitimate cause. |
-|-|-|-|
 | Sexual Harassment | Capital | To sexually harass, attempt to coerce into sexual relations, or effect unwanted sexual contact with an unwilling sophont. |
