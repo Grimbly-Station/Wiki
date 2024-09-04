@@ -58,44 +58,56 @@ All general crew aboard NanoTrasen Space Stations have certain rights and respon
 *    Are responsible for promptly reporting grievances, hazards, or malfunction to appropriate personnel.
 *    Are responsible for conscientiously managing and utilising their resources for efficient operation.
 *    Are responsible for upholding the policies outlined within this CPM14 manual.
-Self-defence
+
+## Self-defence
 NanoTrasen places a high priority on the safety and wellbeing of all individuals aboard its space stations, including employees and patrons. The company recognises that maintaining a secure environment is essential to operations, and, in light of this fact, all NanoTrasen employees are authorised to exercise their right to self-defence when confronted with an imminent threat of physical harm or violence upon their person, in accordance with these guidelines:
 
-The threat must be immediate and serious, with clear intent to cause grievous harm or injury to the employee.
-Before resorting to self-defence, the employee must have exhausted all reasonable alternatives for avoiding or escaping the threat - including following established protocols, attempting de-escalation, and seeking assistance from security personnel.
-The response to the threat must be proportional to the level of danger posed; that is to say, the employee must only use the level of force necessary to protect themselves from harm.
-The employee’s primary directive is to ensure their own safety. Once the opportunity to escape arises, or the threat is neutralised, the employee must cease their use of force and immediately seek assistance from security personnel, medical staff, and any other relevant authorities.
-In any situation where an employee exercises self-defence against any individual aboard the station, they are obligated to provide a detailed account of the incident, including the circumstances immediately prior, to their immediate supervisor, security personnel, or station administration, where applicable and at their earliest convenience.
+* The threat must be immediate and serious, with clear intent to cause grievous harm or injury to the employee.
+* Before resorting to self-defence, the employee must have exhausted all reasonable alternatives for avoiding or escaping the threat - including following established protocols, attempting de-escalation, and seeking assistance from security personnel.
+* The response to the threat must be proportional to the level of danger posed; that is to say, the employee must only use the level of force necessary to protect themselves from harm.
+* The employee’s primary directive is to ensure their own safety. Once the opportunity to escape arises, or the threat is neutralised, the employee must cease their use of force and immediately seek assistance from security personnel, medical staff, and any other relevant authorities.
+In any situation where an employee exercises self-defence against any individual aboard the station, they are **obligated** to provide a detailed account of the incident, including the circumstances immediately prior, to their immediate supervisor, security personnel, or station administration, where applicable and at their earliest convenience.
 The authorisation for self-defence is an exceptional measure intended to address extreme situations where no other viable options exist, and only to facilitate a secure environment that fosters collaboration, innovation, and mutual respect between NanoTrasen’s employees.
 
-Conduct unbecoming
+## Conduct unbecoming
 NanoTrasen personnel found to behave or act in a way that is broadly considered or specified by superiors as inappropriate, unacceptable, or contrary to our company’s standards and expectations for their position or profession, particularly in a professional capacity or when representing the company as a whole, may be demoted from that position or profession, have their contract terminated, or be otherwise reprimanded for their unbecoming conduct.
 
 Behaviour that violates our company’s values and policies oppugn our employees’ character, integrity, and suitability; additionally, improper conduct reflects poorly on our management. As such, heads of departments are fully authorised and encouraged to demote employees that discredit our company’s values by poor behaviour and demeanour.
 
-Dangers from our competitors
+## Dangers from our competitors
 In our spinward stations, there exist threats from direct competitors to NanoTrasen. Conglomerates of companies, crime rings, and terrorist cells known for their unscrupulous practices, including the use of fear tactics, criminal methods, and corporate espionage to undermine and disrupt the operations of legitimate entities such as NanoTrasen. Their activities pose a significant danger to the safety, stability, and success of our stations and the company as a whole. Their motives range from obtaining valuable technology and proprietary information, to sabotaging critical systems, to directly attacking crew.
 
 Identifying saboteur agents can prove challenging, as they often operate covertly and blend in with the station’s population. However, there are certain behaviours and indicators to be on the look-out for:
 
-Unusual Interest
-Individuals showing an excessive interest in sensitive research, proprietary data, or operational reasons without a legitimate reason may be potential corporate agents.
-Inconsistent Backgrounds
-Agents may provide inconsistent or fabricated personal or professional backgrounds, making it important to verify credentials through proper channels.
-Secrecy and Isolation
-Suspicious individuals may isolate themselves, avoid interactions, or engage with only select individuals or parties, raising concerns about their true intentions.
-Sudden Change in Behaviour
-Drastic changes in behaviour, such as displays of aggression or secrecy, could signal involvement with hostile groups.
+* **Unusual Interest** ---
+    Individuals showing an excessive interest in sensitive research, proprietary data, or operational reasons without a legitimate reason may be potential corporate agents.
+* **Inconsistent Backgrounds**--- 
+    Agents may provide inconsistent or fabricated personal or professional backgrounds, making it important to verify credentials through proper channels.
+* **Secrecy and Isolation** --- 
+    Suspicious individuals may isolate themselves, avoid interactions, or engage with only select individuals or parties, raising concerns about their true intentions.
+* **Sudden Change in Behaviour** ---
+    Drastic changes in behaviour, such as displays of aggression or secrecy, could signal involvement with hostile groups.
+
 To combat the presence of hostile entities, crew are advised to:
 
-Report suspected individuals.
-Increase monitoring and patrols.
-Identify unauthorised access attempts and potential breaches.
-Secure critical data.
-Conduct regular emergency drills.
-Perform de-escalation training.
-Implement advanced counter-espionage protocols.
+* Report suspected individuals.
+* Increase monitoring and patrols.
+* Identify unauthorised access attempts and potential breaches.
+* Secure critical data.
+* Conduct regular emergency drills.
+* Perform de-escalation training.
+* Implement advanced counter-espionage protocols.
+
 Should any person or party aboard a NanoTrasen vessel be found to be currently affiliated with, or in the present employ of, any hostile company, crime ring, or terrorist group, they are to have their employment with NanoTrasen terminated where applicable, be stripped of any gratuitous access, and have any corporate property on their person or possession confiscated and returned to relevant station personnel. Such persons or parties may be heavily scrutinised by Station Security forces until they, or their remains, can be remanded to the custody of their employers, an independent port or vessel, or other local jurisdiction, at the earliest convenient time and at no expense to the company.
 
-Hostile Corporation Technology
+## Hostile Corporation Technology
 Additionally, due to the presence of our competitors and their agents in the sectors in which our company operates, there is an ever-present possibility that hostile parties' technology or other property may manifest aboard our station by any number of means. The presence, acquisition, and distribution of such items should always be investigated and scrutinised heavily, and if Space Law and local legal ordinances allow, held securely, confiscated, and restricted from use.
+
+# Conclusion
+In closing, we thank you for your commitment to our mission and the values that guide NanoTrasen as a whole. Your dedication is the keystone to our success.
+
+And remember, we are bound by a shared responsibility in this success. Failure to uphold your contract will result in immediate consequences, up to and including termination with extreme prejudice.
+
+Safe travels!
+
+[NanoTrasen Central Command]
