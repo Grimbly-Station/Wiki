@@ -178,7 +178,7 @@ Additionally, any sentences exceeding 20 minutes, regardless of the severity of 
 Security personnel are bound by trespass and assault laws, and thus cannot operate outside their accessible areas, or perform searches without a warrant or heightened alert level that specifically allows them to do so. Advanced surgical procedures, cursory implant inspections, and any other other invasive searches, however, must be done with a warrant regardless of alert and with the assistance of Medical personnel. Security is given an exception to trespass only when in active pursuit of a suspect that has fled from an accessible area, who they have Probable Cause to believe has committed a crime.
 
 ## Rules of Engagement
-<div class="warning>
+<div class="warning">
 
 Rules of Engagement take precedent over sophont law. If the sophont in question is an active threat, they may be executed for little to no reason.
 
