@@ -16,17 +16,17 @@ We thank you for choosing to embark on this incredible journey with us. Together
 ## Code of conduct
 At NanoTrasen, we pride ourselves on maintaining the highest standards of professionalism and respect. As an employee, and as a representative of the corporation as a whole, you will be expected to uphold the following company values and ideals:
 
-1. Consideration and Care
+1. **Consideration and Care** -
     Think before you act, and ensure you’re acting appropriately and safely. Adhere to company standards, undergo regular training, and ensure you’re following any safety notices or instructions from authorities.
-2. Respect and Collaboration
+2. **Respect and Collaboration** -
     Treat all colleagues, clients , and members of the public with courtesy and professionalism. Embrace diversity of background and culture, and foster a synergetic work environment.
-3. Integrity and Honesty
+3. **Integrity and Honesty** -
     By acting with a foundation of integrity and being honest with your colleagues and superiors, you’re upholding the trust placed in you by our customers, our shareholders, and the NanoTrasen brand. Honesty with yourself and others serves the community at large.
-4. Confidentiality and Accountability
+4. **Confidentiality and Accountability** -
     Safeguard sensitive information about our personnel, our clients, company operations, research, and restricted data. Take ownership of this responsibility and the various others delegated to you, striving for excellence in your work and diligence in your duties.
-5. Adaptability and Ingenuity
+5. **Adaptability and Ingenuity**
     Embrace change, stay adaptable, and demonstrate a willingness to learn and grow in response to new circumstances. Never quit, and never give up; show NanoTrasen’s commitment and hard work ethic regardless of any obstacles in your way.
-6. Appearance standards
+6. **Appearance standards**
     As a NanoTrasen employee, you are expected to wear provided clothing, and to keep them clean, well-maintained, and appropriately fitted. This ensures that you’re representing our brand in a professional manner, as well as maintaining the safety of yourself and others in the station environment.
 
 Uniforms and Attire
