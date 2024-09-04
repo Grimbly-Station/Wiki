@@ -290,13 +290,11 @@ Civil cases do not require attorneys or prosecutors, but they may receive assist
 Any Sophont, or being willing and capable of presenting themselves before court under oath and present at the scene of the crime as a bystander or a victim at the time of its commission, may offer eyewitness testimony before the court at request of defense or prosecution. Extra time may be granted to either side at the behest of the arbitrator or judge to allow for witnesses not currently present.
 ### Objection to Testimony
 Any witness that falls under the following conditions may be excused as a witness or have their testimony deemed inadmissible:
-
 * The witness lacks the mental, intellectual, or other capacity to understand the context of the case.
 * The witness's inclusion will cause substantial cost or delay to the case, proceedings, or upkeep of the station.
 * The witness is the judge.
 ### General Objections
 Both parties in a trial may object to testimony to have the testimony deemed inadmissible, move past the question, or rephrase a question to keep a trial within time limit:
-
 * Hearsay: The witness testifies using an out-of-court statement by an individual not present in court, thereby rendering it impossible to verify. This testimony will be inadmissible.
 * Asked and answered: A question is posed that has already been answered previously by a witness. Such a question must be skipped.
 * Narrative: A question is posed that would require a significantly long answer with multiple facts, or when the witness chooses to answer a question in this way. The question must be reworded, or the witness must be reminded to answer promptly and stay on topic.
@@ -323,11 +321,11 @@ The Commanding Officer of a commercial or military vessel is afforded several ri
 
 These rights carry a responsibility, however, such as:
 * the CO of the vessel must do everything possible to save the inhabitants and assets aboard the station, and, unless their life is in immediate danger, must not abandon ship if there is reasonable hope that it could be saved.
-* the CO must not act with malicious intent toward a sophont.
 * the CO must not, in any way, shape, or form, abuse the privileges granted to them and must only use them for the sake of the vessel.
 
 The legally appointed Captain of a vessel is afforded additional rights over that of a CO:
-* The Captain is authorized to temporarily modify or alter SoP in times of emergency, at the risk of criminal penalties in the case of misuse or abuse. The Captain is authorized to deputize members of their crew to carry out law enforcement temporarily, during times of emergency. Deputies created by the Captain are bound by security procedure and Space Law, and the Captain may be held legally responsible for criminal acts committed by those who they deputize.
+* The Captain is authorized to temporarily modify or alter SoP in times of emergency, at the risk of criminal penalties in the case of misuse or abuse. 
+* The Captain is authorized to deputize members of their crew to carry out law enforcement temporarily, during times of emergency. Deputies created by the Captain are bound by security procedure and Space Law, and the Captain may be held legally responsible for criminal acts committed by those who they deputize.
 
 ## Line of Succession
 It is the responsibility of Command to ensure that a station retains a CO immediately at the start of the shift and thereafter. If the CO dies and is unrecoverable, or if a CO is not assigned at the start of the shift, an Acting CO must be selected forthwith per the following guide:
