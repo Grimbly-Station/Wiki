@@ -1,6 +1,5 @@
 # Company Policy
 Welcome to the NanoTrasen Space Station Company Policy Manual - 14th Edition!
-
 ## Preface
 As a member of the crew aboard a large and cutting-edge space station, it is imperative that you adhere to a set of responsibilities and behaviours that reflect our company’s commitment to safety and cooperation. Our space stations are not just places of work - they’re thriving hubs of progress, ingenuity, and unity.
 Every action aboard our stations has meaning and impact, and it’s this interconnectedness that drives everyone to succeed - from the humble assistant to the highest-ranking officers.
@@ -12,7 +11,6 @@ The stipulations outlined here represent a baseline for the ethical and respectf
 We thank you for choosing to embark on this incredible journey with us. Together, we will push the razor’s edge of progress, and make NanoTrasen synonymous with the future.
 
 [NanoTrasen Central Command]
-
 ## Code of conduct
 At NanoTrasen, we pride ourselves on maintaining the highest standards of professionalism and respect. As an employee, and as a representative of the corporation as a whole, you will be expected to uphold the following company values and ideals:
 
@@ -26,7 +24,6 @@ At NanoTrasen, we pride ourselves on maintaining the highest standards of profes
     Safeguard sensitive information about our personnel, our clients, company operations, research, and restricted data. Take ownership of this responsibility and the various others delegated to you, striving for excellence in your work and diligence in your duties.
 5. **Adaptability and Ingenuity** ---
     Embrace change, stay adaptable, and demonstrate a willingness to learn and grow in response to new circumstances. Never quit, and never give up; show NanoTrasen’s commitment and hard work ethic regardless of any obstacles in your way.
-
 ## **Appearance standards**
 As a NanoTrasen employee, you are expected to wear provided clothing, and to keep them clean, well-maintained, and appropriately fitted. This ensures that you’re representing our brand in a professional manner, as well as maintaining the safety of yourself and others in the station environment.
 
@@ -41,7 +38,6 @@ As a NanoTrasen employee, you are expected to wear provided clothing, and to kee
 5. **Respect and Consideration** ---
     Be mindful of others’ cultures, beliefs, and other qualities when expressing yourself and your own personal style. Your behaviour and actions should respect the sensitivities and beliefs of others.
 Additionally, it should be noted that any accessory, item of clothing or apparel, or other cosmetic possession that promotes or depicts obscene or hateful content, criminal or terrorist groups, or illegal and unethical acts are unacceptable for wear by our employees. Failure to uphold our company’s values by violating this rule will result in disciplinary action.
-
 ## Rights and responsibilities
 All general crew aboard NanoTrasen Space Stations have certain rights and responsibilities in order to ensure that the company, its employees, and any customers or the general public are taken into consideration.
 
@@ -58,7 +54,6 @@ All general crew aboard NanoTrasen Space Stations have certain rights and respon
 *    Are responsible for promptly reporting grievances, hazards, or malfunction to appropriate personnel.
 *    Are responsible for conscientiously managing and utilising their resources for efficient operation.
 *    Are responsible for upholding the policies outlined within this CPM14 manual.
-
 ## Self-defence
 NanoTrasen places a high priority on the safety and wellbeing of all individuals aboard its space stations, including employees and patrons. The company recognises that maintaining a secure environment is essential to operations, and, in light of this fact, all NanoTrasen employees are authorised to exercise their right to self-defence when confronted with an imminent threat of physical harm or violence upon their person, in accordance with these guidelines:
 
@@ -68,12 +63,10 @@ NanoTrasen places a high priority on the safety and wellbeing of all individuals
 * The employee’s primary directive is to ensure their own safety. Once the opportunity to escape arises, or the threat is neutralised, the employee must cease their use of force and immediately seek assistance from security personnel, medical staff, and any other relevant authorities.
 In any situation where an employee exercises self-defence against any individual aboard the station, they are **obligated** to provide a detailed account of the incident, including the circumstances immediately prior, to their immediate supervisor, security personnel, or station administration, where applicable and at their earliest convenience.
 The authorisation for self-defence is an exceptional measure intended to address extreme situations where no other viable options exist, and only to facilitate a secure environment that fosters collaboration, innovation, and mutual respect between NanoTrasen’s employees.
-
 ## Conduct unbecoming
 NanoTrasen personnel found to behave or act in a way that is broadly considered or specified by superiors as inappropriate, unacceptable, or contrary to our company’s standards and expectations for their position or profession, particularly in a professional capacity or when representing the company as a whole, may be demoted from that position or profession, have their contract terminated, or be otherwise reprimanded for their unbecoming conduct.
 
 Behaviour that violates our company’s values and policies oppugn our employees’ character, integrity, and suitability; additionally, improper conduct reflects poorly on our management. As such, heads of departments are fully authorised and encouraged to demote employees that discredit our company’s values by poor behaviour and demeanour.
-
 ## Dangers from our competitors
 In our spinward stations, there exist threats from direct competitors to NanoTrasen. Conglomerates of companies, crime rings, and terrorist cells known for their unscrupulous practices, including the use of fear tactics, criminal methods, and corporate espionage to undermine and disrupt the operations of legitimate entities such as NanoTrasen. Their activities pose a significant danger to the safety, stability, and success of our stations and the company as a whole. Their motives range from obtaining valuable technology and proprietary information, to sabotaging critical systems, to directly attacking crew.
 
@@ -99,7 +92,6 @@ To combat the presence of hostile entities, crew are advised to:
 * Implement advanced counter-espionage protocols.
 
 Should any person or party aboard a NanoTrasen vessel be found to be currently affiliated with, or in the present employ of, any hostile company, crime ring, or terrorist group, they are to have their employment with NanoTrasen terminated where applicable, be stripped of any gratuitous access, and have any corporate property on their person or possession confiscated and returned to relevant station personnel. Such persons or parties may be heavily scrutinised by Station Security forces until they, or their remains, can be remanded to the custody of their employers, an independent port or vessel, or other local jurisdiction, at the earliest convenient time and at no expense to the company.
-
 ## Hostile Corporation Technology
 Additionally, due to the presence of our competitors and their agents in the sectors in which our company operates, there is an ever-present possibility that hostile parties' technology or other property may manifest aboard our station by any number of means. The presence, acquisition, and distribution of such items should always be investigated and scrutinised heavily, and if Space Law and local legal ordinances allow, held securely, confiscated, and restricted from use.
 
