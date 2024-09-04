@@ -75,9 +75,10 @@ Sentencing modifiers are to be applied by the sentencing officer, judge, or arbi
 | Terrorism | Capital | To commit an act with the intent to cause injury or death, or to take hostages, in order to provoke a state of terror in, intimidate, or compel a group of sophonts to do or to abstain from doing any act. |
 | Grand Sabotage | Capital | To engage in malicious actions that directly or indirectly make uninhabitable or inoperable a vessel or its part, or irreversibly modify and/or damage technology one is not authorised to access, causing severe bodily harm or death to multiple sophonts. |
 | Decorporealisation | Capital | To unlawfully, maliciously, and permanently strip a sophont’s mind from their body. |
-| Kidnapping | Capital | To unlawfully confine or restrict the free movement of a sophont against their will. |
+| Hostage Taking | Capital | To unlawfully confine or restrict the free movement of a sophont to utilize for personal gain or to invoke a state of terror. |
 | Sedition | Capital | To act to overthrow a lawfully established Chain of Command or governing body without lawful or legitimate cause. |
 | Sexual Harassment | Capital | To sexually harass, attempt to coerce into sexual relations, or effect unwanted sexual contact with an unwilling sophont. |
+| Grand Endangerment | Capital | To egregiously and recklessly abandon obligations involving the continued wellbeing and/or protection of life and property, through malpractice, action, or inaction, resulting in significant harm, injury, or death to multiple sophonts. |
 
 ### Felonies
 | Name | Time | Description |
@@ -87,11 +88,13 @@ Sentencing modifiers are to be applied by the sentencing officer, judge, or arbi
 | Black Marketeering | 6 minutes | To sell, distribute, or otherwise circulate restricted items or substances to unauthorised sophonts or entities. |
 | Sabotage | 6 minutes | To engage in malicious actions that directly or indirectly hinder the operation of a vessel or its part, modify and/or damage technology one is not authorised to access, or endanger multiple sophonts. |
 | Mindbreaking | 5 minutes | To unlawfully and maliciously rid a psionic sophont of their powers. |
-| Assault | 5 minutes | To cause physical harm or to effect unwanted physical contact on a sophont, without the apparent intent to kill them, or to threaten such actions with both capability and intent to do so. | 
+| Assault | 5 minutes | To cause physical harm or to effect unwanted physical contact on a sophont, without the apparent intent to kill them, or to threaten such actions with both capability and intent to do so. |
+| Harassment | 4 minutes | To effect behavior that demeans, humiliates, and intimidates a Sophont intentionally or with malice intent | 
 | Abuse of Power | 5 minutes | To intentionally misuse or wrongfully exercise one’s own authority, influence, or control, resulting in harm, unjust treatment, or demonstrable loss to a separate party due to violation of ethical and professional standards. |
-| Possession | 5 minutes[^note] | To be in unauthorised possession of restricted items or items of particular danger. See Controlled Substances/Items, Controlled Armaments. |
+| Felony Possession | 7 minutes[^note] | To be in unauthorized possession of HIGHLY restricted items or items of extreme danger to Property and Sophonts. See Controlled Substances/Items, Controlled Armaments |
 | Endangerment | 4 minutes | To recklessly abandon obligations involving the continued wellbeing and/or protection of life and property, through malpractice, action, or inaction. |
-| Breaking and Entering | 4 minutes | To break and enter into a high security area where one is not authorised nor invited, with intent to commit a crime within. |
+| Kidnapping | 8 minutes |  To unlawfully confine or restrict the free movement of a sophont against their will. |
+| Secure Trespass | 4 minutes | To break and enter into a high security area where one is not authorised nor invited. |
 | Rioting | 4 minutes | To partake in an unauthorised riotous, tumultuous, and disruptive public assembly that refuses to disperse after warning. |
 | Contempt of Court | 4 minutes | To conduct oneself disruptively and disrespectfully before the court. |
 | Perjury or False Report | 3 minutes | To wilfully and maliciously tell an untruth either in court or in the process of making an actionable report to law enforcement. |
@@ -101,9 +104,13 @@ Sentencing modifiers are to be applied by the sentencing officer, judge, or arbi
 | Name | Time | Description |
 |-|-|-|
 | Animal Cruelty | 3 minutes | To inflict unnecessary suffering on a sapient being with malicious intent. |
+| Possession | 5 minutes[^note] | To be in unauthorized possession of restricted items or items of particular danger. See Controlled Substances/Items, Controlled Armaments. |
 | Theft | 2 minutes | To unlawfully take property or items without consent. |
 | Trespass | 2 minutes | To enter into an area where one is not authorised nor invited. |
 | Vandalism | 2 minutes | To deface or superficially damage public property, or property belonging to another person. |
 | Hooliganism | As necessary | To intentionally and maliciously engage in disruptive conduct, where one refuses to cease. |
+| Indecent Exposure | 3 minutes | Willingly exposing one’s nude body in a public location | 
+| Brandishing | 2 minutes | To show a firearm or deadly weapon in public with the intent to intimidate or invoke fear upon another sophont. | 
+| Fearmongering | 3 minutes | To commit intentional dissemination of exaggerated, false, or misleading information designed to incite fear, panic, or anxiety within a community or specific group. |
 
-[^note]: Possession does not stack and the time may not go above 5 minutes from possession alone. 
+[^note]: Possession does not stack and the time may not go above 5 minutes from possession alone in the case of felony Possession it may not go up past 7. 
