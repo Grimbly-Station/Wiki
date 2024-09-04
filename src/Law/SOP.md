@@ -320,6 +320,7 @@ The Commanding Officer of a commercial or military vessel is afforded several ri
     * Incompetence; general lack of understanding of their role to an extreme degree, leading to a severe lack of departmental efficiency, progress, or departmental duties being fulfilled.  
     * Gross negligence; if the command member has demonstrated a complete, reckless disregard for the safety of their department or others.
     * Criminal activity; if the command member has been convicted of a crime equal to or more severe than a felony.
+
 These rights carry a responsibility, however, such as:
 * the CO of the vessel must do everything possible to save the inhabitants and assets aboard the station, and, unless their life is in immediate danger, must not abandon ship if there is reasonable hope that it could be saved.
 * the CO must not act with malicious intent toward a sophont.
