@@ -16,48 +16,48 @@ We thank you for choosing to embark on this incredible journey with us. Together
 ## Code of conduct
 At NanoTrasen, we pride ourselves on maintaining the highest standards of professionalism and respect. As an employee, and as a representative of the corporation as a whole, you will be expected to uphold the following company values and ideals:
 
-1. **Consideration and Care** -
+1. **Consideration and Care** ---
     Think before you act, and ensure you’re acting appropriately and safely. Adhere to company standards, undergo regular training, and ensure you’re following any safety notices or instructions from authorities.
-2. **Respect and Collaboration** -
+2. **Respect and Collaboration** ---
     Treat all colleagues, clients , and members of the public with courtesy and professionalism. Embrace diversity of background and culture, and foster a synergetic work environment.
-3. **Integrity and Honesty** -
+3. **Integrity and Honesty** ---
     By acting with a foundation of integrity and being honest with your colleagues and superiors, you’re upholding the trust placed in you by our customers, our shareholders, and the NanoTrasen brand. Honesty with yourself and others serves the community at large.
-4. **Confidentiality and Accountability** -
+4. **Confidentiality and Accountability** ---
     Safeguard sensitive information about our personnel, our clients, company operations, research, and restricted data. Take ownership of this responsibility and the various others delegated to you, striving for excellence in your work and diligence in your duties.
-5. **Adaptability and Ingenuity**
+5. **Adaptability and Ingenuity** ---
     Embrace change, stay adaptable, and demonstrate a willingness to learn and grow in response to new circumstances. Never quit, and never give up; show NanoTrasen’s commitment and hard work ethic regardless of any obstacles in your way.
-6. **Appearance standards**
-    As a NanoTrasen employee, you are expected to wear provided clothing, and to keep them clean, well-maintained, and appropriately fitted. This ensures that you’re representing our brand in a professional manner, as well as maintaining the safety of yourself and others in the station environment.
 
-Uniforms and Attire
-Wear the uniforms and attire provided to you by NanoTrasen. Take care of your clothes, and wear them with pride.
-Grooming
-Maintain personal hygiene and grooming to a high standard. Neat hair and well-kept appearances contribute to a professional atmosphere and boost first impressions.
-Accessories and Personal Items
-Limit the use of accessories that might interfere with safety equipment or delegated tasks. Personal items should be stored in designated spaces to avoid clutter and to ensure the safety of you and your coworkers.
-Personal Protective Equipment
-Wear the appropriate PPE as required by your role, any safety notices, or instructions from authorities. The safety of our employees and customers is paramount.
-Respect and Consideration
-Be mindful of others’ cultures, beliefs, and other qualities when expressing yourself and your own personal style. Your behaviour and actions should respect the sensitivities and beliefs of others.
+## **Appearance standards**
+As a NanoTrasen employee, you are expected to wear provided clothing, and to keep them clean, well-maintained, and appropriately fitted. This ensures that you’re representing our brand in a professional manner, as well as maintaining the safety of yourself and others in the station environment.
+
+1. **Uniforms and Attire** ---
+    Wear the uniforms and attire provided to you by NanoTrasen. Take care of your clothes, and wear them with pride.
+2. **Grooming** ---
+    Maintain personal hygiene and grooming to a high standard. Neat hair and well-kept appearances contribute to a professional atmosphere and boost first impressions.
+3. **Accessories and Personal Items** ---
+    Limit the use of accessories that might interfere with safety equipment or delegated tasks. Personal items should be stored in designated spaces to avoid clutter and to ensure the safety of you and your coworkers.
+4. **Personal Protective Equipment** ---
+    Wear the appropriate PPE as required by your role, any safety notices, or instructions from authorities. The safety of our employees and customers is paramount.
+5. **Respect and Consideration** ---
+    Be mindful of others’ cultures, beliefs, and other qualities when expressing yourself and your own personal style. Your behaviour and actions should respect the sensitivities and beliefs of others.
 Additionally, it should be noted that any accessory, item of clothing or apparel, or other cosmetic possession that promotes or depicts obscene or hateful content, criminal or terrorist groups, or illegal and unethical acts are unacceptable for wear by our employees. Failure to uphold our company’s values by violating this rule will result in disciplinary action.
 
-Rights and responsibilities
+## Rights and responsibilities
 All general crew aboard NanoTrasen Space Stations have certain rights and responsibilities in order to ensure that the company, its employees, and any customers or the general public are taken into consideration.
 
-All members of the crew:
-
-Have the right to live in a safe and healthy environment, and to be provided access to necessary safety equipment and medical assistance.
-Have the right to be treated with respect and fairness regardless of their role or background.
-Have the right to receive clear and accurate information related to their roles, tasks, or relevant updates.
-Have the right to receive proper training and development opportunities as necessary to enhance their skills and contribute effectively to company operations.
-Have the right to confidentiality regarding personal information and sensitive matters within the bounds of operational requirements.
-Have the right to access necessary resources for performing their duties, including equipment, tools, or facilities.
-Are responsible for following safety protocols, operating procedures, and company policies to ensure their own safety and others’.
-Are responsible for upholding the company’s reputation through their behaviour, communication, and general conduct.
-Are responsible for fulfilling their assigned tasks and responsibilities efficiently and to the best of their ability, particularly where they are essential to station function.
-Are responsible for promptly reporting grievances, hazards, or malfunction to appropriate personnel.
-Are responsible for conscientiously managing and utilising their resources for efficient operation.
-Are responsible for upholding the policies outlined within this CPM14 manual.
+**All members of the crew:**
+*    Have the right to live in a safe and healthy environment, and to be provided access to necessary safety equipment and medical assistance.
+*    Have the right to be treated with respect and fairness regardless of their role or background.
+*    Have the right to receive clear and accurate information related to their roles, tasks, or relevant updates.
+*    Have the right to receive proper training and development opportunities as necessary to enhance their skills and contribute effectively to company operations.
+*    Have the right to confidentiality regarding personal information and sensitive matters within the bounds of operational requirements.
+*    Have the right to access necessary resources for performing their duties, including equipment, tools, or facilities.
+*    Are responsible for following safety protocols, operating procedures, and company policies to ensure their own safety and others’.
+*    Are responsible for upholding the company’s reputation through their behaviour, communication, and general conduct.
+*    Are responsible for fulfilling their assigned tasks and responsibilities efficiently and to the best of their ability, particularly where they are essential to station function.
+*    Are responsible for promptly reporting grievances, hazards, or malfunction to appropriate personnel.
+*    Are responsible for conscientiously managing and utilising their resources for efficient operation.
+*    Are responsible for upholding the policies outlined within this CPM14 manual.
 Self-defence
 NanoTrasen places a high priority on the safety and wellbeing of all individuals aboard its space stations, including employees and patrons. The company recognises that maintaining a secure environment is essential to operations, and, in light of this fact, all NanoTrasen employees are authorised to exercise their right to self-defence when confronted with an imminent threat of physical harm or violence upon their person, in accordance with these guidelines:
 
