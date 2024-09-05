@@ -16,7 +16,7 @@ command = "mdbook-mermaid"
 [output]
 
 [output.html]
-additional-css = ["./mdbook-admonish.css", '.\theme\catppuccin.css', '.\theme\catppuccin-admonish.css']
+additional-css = ["./mdbook-admonish.css", './theme/catppuccin.css', './theme/catppuccin-admonish.css']
 additional-js = ["mermaid.min.js", "mermaid-init.js"]
 default-theme = "latte"
 preferred-dark-theme = "mocha"
