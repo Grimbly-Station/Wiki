@@ -10,8 +10,8 @@ pagetoc = true
 
 # some variables related (defined in theme/css/variables.css)
 # `content-max-width` + `pagetoc-width` = 95% seems the best
-pagetoc-width = "13%"
-content-max-width = "82%"
+pagetoc-width = "20%"
+content-max-width = "75%"
 pagetoc-fontsize = "14.5px"
 sidebar-width = "300px"
 menu-bar-height = "40px"   # memu-bar = the bar on the top
