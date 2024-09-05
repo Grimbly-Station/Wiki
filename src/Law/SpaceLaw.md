@@ -1,10 +1,8 @@
 # Space Law
 
-<div class="warning">
-
-This is not updated for Grimbly use just yet.
-
-</div>
+```admonish warning title="Warning: Unfinished
+Space Law, SOP, and Company Policy are all being reviewed for rewrite. Please note things may change over time.
+```
 
 * **Space Law** is a broad set of rules and regulations, collected and regulated by TerraGov, enacted and enforced by NanoTrasen and its Station Security, with the oversight of CentCom - and, on occasion, TerraGov's Galactic Police Force. Space Law applies to all ranks and positions on stations under its jurisdiction, from the lowliest Passenger to the highest Captain; all are equal under the eyes of the Law, and all must ultimately answer to it.
 

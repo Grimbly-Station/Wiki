@@ -1,3 +1,7 @@
+```admonish warning title="Warning: Unfinished
+Space Law, SOP, and Company Policy are all being reviewed for rewrite. Please note things may change over time.
+```
+
 # Company Policy
 Welcome to the NanoTrasen Space Station Company Policy Manual - 14th Edition!
 ## Preface

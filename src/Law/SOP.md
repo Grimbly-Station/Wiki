@@ -1,3 +1,7 @@
+```admonish warning title="Warning: Unfinished
+Space Law, SOP, and Company Policy are all being reviewed for rewrite. Please note things may change over time.
+```
+
 This page covers the standardized guidelines and procedures aboard the station, but are not written in law; be aware that in cases of dire emergency the commanding officer or certain individuals are authorized to temporarily alter current SOP as they see fit, at the risk of criminal penalties in the case of misuse or abuse! Make sure to look at Alert Procedure for guidelines that change based on the alert level.
 
 **Definitions**: The terms specified below are defined for further use in the procedure herein.
