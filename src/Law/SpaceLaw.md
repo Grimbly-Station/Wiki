@@ -1,6 +1,6 @@
 # Space Law
 
-```admonish warning title="Warning: Unfinished
+```admonish warning title="Warning: Unfinished"
 Space Law, SOP, and Company Policy are all being reviewed for rewrite. Please note things may change over time.
 ```
 
